@@ -4,6 +4,7 @@ This is a simple website project for showing how to use Git and Github
 This is example to show difference parts of git repository
 ## Deployment
 ## Purpose
+As stated above the purpose of this
 ## How To Contribute
 
 
