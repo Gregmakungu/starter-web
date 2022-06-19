@@ -7,5 +7,6 @@ This is a simple project
 ## Purpose
 As stated above the purpose of this
 ## How To Contribute
-This is great
+
+Copyright
 
