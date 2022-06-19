@@ -10,5 +10,5 @@ As stated above the purpose of this
 ## How To Contribute
 Please order  anything you  can manage
 
-Copyright
+All right reserved
 
