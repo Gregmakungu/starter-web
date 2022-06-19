@@ -2,7 +2,7 @@
 This is a simple website project for showing how to use Git and Github
 ## Introduction
 This is example to show difference parts of git repository
-Adding a line
+Adding a line, more changes
 ## Deployment
 This is a simple project
 ## Purpose
